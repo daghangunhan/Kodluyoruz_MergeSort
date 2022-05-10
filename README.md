@@ -19,4 +19,5 @@ The number of times to combine arrays is calculated as follows.
 x=log_2(n)
 
 Total number of operations: (n-1)*log_2(n)
+
 Big-O notation: O(n*logn)
