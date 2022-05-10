@@ -17,6 +17,7 @@ The number of operations is (n-1) at the each stage of combining arrays.
 The number of times to combine arrays is calculated as follows.
 
 2^x=n 
+
 x=log_2(n)
 
 Total number of operations: (n-1)*log_2(n)
